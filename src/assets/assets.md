@@ -1,0 +1,1 @@
+This is the map that ussualy holds stuff like Imgs, icons and so on
