@@ -1,0 +1,11 @@
+The utils folder is the place for utility functions that can be reused across your application.
+
+// utils/helpers.js
+const formatDate = (date) => {
+    // Utility function to format dates
+};
+
+
+module.exports = {
+    formatDate,
+};
